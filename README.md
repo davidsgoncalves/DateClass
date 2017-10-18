@@ -20,7 +20,7 @@ change_date(INITIAL_DATE, OPERATOR, MILLISECONDS)
 ```
 **INITIAL_DATE**: Should be a string of brazilian datetime format(dd/mm/YYYY HH:MM), ex: "01/03/2010 23:00".
 
-**OPERATOR**: Should be a string with any of this symbols ['+', '-'], use + if you want to add or '-' if you wnat to sub.
+**OPERATOR**: Should be a string with any of this symbols ['+', '-'], use + if you want to add or - if you wnat to sub.
 
 **MILLISECONDS**: Should be a string of a number that represents a quantity of milliseconds, ex: "4000".
 
