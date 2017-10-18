@@ -18,8 +18,8 @@ This DateClass has one method only, with this method you can add or sub millisec
 ```
 change_date(INITIAL_DATE, OPERATOR, MILLISECONDS)
 ```
-**INITIAL_DATE**: Should be a string of brazilian datetime format(dd/mm/YYYY HH:MM), ex: "01/03/2010 23:00";
-**OPERATOR**: Should be a string with any of this symbols ['+', '-'], use + if you want to add or '-' if you wnat to sub;
+**INITIAL_DATE**: Should be a string of brazilian datetime format(dd/mm/YYYY HH:MM), ex: "01/03/2010 23:00";__
+**OPERATOR**: Should be a string with any of this symbols ['+', '-'], use + if you want to add or '-' if you wnat to sub;__
 **MILLISECONDS**: Should be a string of a number that represents a quantity of milliseconds, ex: "4000".
 
 The return of this method is another string of brazilian datetime format.
